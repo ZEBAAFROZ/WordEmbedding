@@ -62,7 +62,7 @@ pip install gensim
     analogy = model.wv.most_similar(positive=['king', 'woman'], negative=['man'])
     ```
 
-## Examples
+## Code
 
 Check out the [Embedding_Gensim.ipynb](Embedding_Gensim.ipynb) for more detailed understanding on how to use Gensim for word embedding.
 
