@@ -67,12 +67,5 @@ pip install gensim
 
 ## Examples
 
-Check out the [examples](examples) directory for more detailed code examples and Jupyter notebooks demonstrating how to use Gensim for word embedding.
+Check out the [Embedding_Gensim.ipynb](Embedding_Gensim.ipynb) for more detailed understanding on how to use Gensim for word embedding.
 
-## Contributing
-
-If you'd like to contribute to this project, please open an issue or submit a pull request. We welcome any contributions that improve documentation, add more examples, or enhance the functionality of this repository.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
