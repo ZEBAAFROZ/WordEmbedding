@@ -9,9 +9,6 @@ This repository provides a simple guide and code examples on how to use Gensim, 
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
